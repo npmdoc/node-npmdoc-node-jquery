@@ -1,6 +1,7 @@
 # npmdoc-node-jquery
 
-api documentation for  node-jquery (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-jquery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-jquery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-jquery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-jquery)
+#### basic api documentation for  node-jquery (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-jquery.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-jquery) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-jquery.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-jquery)
+
 #### jQuery support for node.js, it's awesome
 
 [![NPM](https://nodei.co/npm/node-jquery.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-jquery)
@@ -55,7 +56,8 @@ api documentation for  node-jquery (v0.1.0)  [![npm package](https://img.shields
     "scripts": {
         "start": "node ./app"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
